@@ -12,7 +12,7 @@ Copyright (C) 2021 João Pedro Viana Freitas.
 
 Este projeto é protegido por direitos autorais, a distribuição não é autorizada.
 
-O código fonte deste projeto não está disponível para o público, e este repositório (https://github.com/Valheim-Brasil/VBrasil/) não é o repositório do projeto, este repositório é para permitir o "download" do Mod para uso no instalador (https://github.com/Valheim-Brasil/InstaladorVPlus).
+O código fonte deste projeto não está disponível para o público, e este repositório (https://github.com/Valheim-Brasil/VBrasil/) não é o repositório do projeto, este repositório é para permitir o "download" do Mod para uso no instalador (https://github.com/Valheim-Brasil/VBrasil_Instalador).
 
 ## Creditos e Direitos Autorais
 * João P. 'Castiel' Freitas - https://github.com/CastBlacKing
