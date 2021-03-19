@@ -5,7 +5,7 @@ Valheim Brasil é uma comunidade de valheim brasileira dedicada a levar diversã
 [Discord da Comunidade](https://discord.gg/2FJmVXfWzv)
 
 # HarmonyX
-Um HarmonyX Mod destinado a melhorar a qualidade de jogo da Valheim. O mod inclui várias características principais, incluindo modificadores para estatísticas de jogadores, edifícios e entidades no jogo e um sistema sofisticado para construir e colocar objetos com alta precisão e um sistema para modificar objetos já colocados com alta precisão. O objetivo geral é fornecer V+ como uma modificação de base para sua jogabilidade a fim de aumentar a qualidade de vida, mudar a dificuldade ou ter uma melhor experiência em geral. O mod também vem com um sistema de controle de versão e configuração para servidores e usuários, permitindo que os servidores garantam que somente pessoas com a mesma configuração sejam capazes de se juntar a seus servidores.
+Um HarmonyX Mod destinado a melhorar a qualidade de jogo da Valheim. O mod inclui várias características principais, incluindo modificadores para estatísticas de jogadores, edifícios e entidades no jogo e um sistema sofisticado para construir e colocar objetos com alta precisão e um sistema para modificar objetos já colocados com alta precisão.
 
 # Licença
 Copyright (C) 2021 João Pedro Viana Freitas.
