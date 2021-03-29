@@ -16,3 +16,6 @@ O código fonte deste projeto não está disponível para o público, e este rep
 
 ## Creditos e Direitos Autorais
 * João P. 'Castiel' Freitas - https://github.com/CastBlacKing
+
+## Termos e Condições
+Lcalizado nos seguintes links: (https://github.com/Valheim-Brasil/VBrasil_Instalador/) e (https://github.com/Valheim-Brasil/VBrasil/)
